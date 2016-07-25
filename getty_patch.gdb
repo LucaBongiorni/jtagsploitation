@@ -62,6 +62,7 @@ while($addr < $end)
 	end
 	set $addr=$addr+$step
 end
+printf "\nDone.\n"
 end
 
 ###############################################################################
